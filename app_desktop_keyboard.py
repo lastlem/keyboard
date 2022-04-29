@@ -117,5 +117,4 @@ for y, key_array in enumerate(keyboard):
     buttons.append(buttons_temp)
 
 root.bind('<Alt-Shift_L>', change_keyboard)
-
 root.mainloop()
